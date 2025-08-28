@@ -1,0 +1,30 @@
+.defaultfont {
+    font-size: 28px;
+    font-family: "Helvetica," "Times New Roman," sans-serif;
+}
+
+#ccstyle {
+    color: white;
+    background-color: black;
+}
+
+#highlighter {
+    background-color: yellow;
+}
+
+/*not exactly what assignment wanted but not bad ^^^*/
+
+.ccstyle,
+.highlighter {
+    font-size: 28px;
+    font-family: "Helvetic," "Times New Roman," sans-serif;
+}
+
+.ccstyle {
+    color: white;
+    background-color: black;
+}
+
+.highlighter {
+    background-color: yellow;
+}

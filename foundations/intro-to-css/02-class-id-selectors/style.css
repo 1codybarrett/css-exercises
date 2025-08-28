@@ -1,0 +1,21 @@
+.shrimp-text {
+    background-color: #FF8BA0;
+    font-family: "Verdana," "DejaVuSans," "sans-serif";
+}
+
+.mediumsize {
+    font-size: 24px;
+}
+
+.boldtext {
+    font-weight: bold;
+}
+
+#bigblue {
+    color: blue;
+    font-size: 36px;
+}
+
+#lightgreen {
+    background-color: lightgreen;
+}
